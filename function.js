@@ -7,3 +7,6 @@ function hello2(){
 function newfeature(){
     return "testing github brach"
 }
+function newone(){
+    return "testing 2";
+}
